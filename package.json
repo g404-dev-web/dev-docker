@@ -1,0 +1,11 @@
+{
+    "name": "simplon-roanne-dev-docker",
+    "author": {
+        "name": "Gael DEBOST",
+        "email": "zzgael@gmail.com",
+        "url": "https://idmkr.io"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
